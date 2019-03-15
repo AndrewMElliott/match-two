@@ -1,0 +1,31 @@
+.container{
+  margin:0 auto;
+  width: 500px;
+  height:auto;
+  display:flex;
+  flex-wrap:wrap;
+
+}
+.card{
+  width:75px;
+  height:100px;
+  border-radius: 15px;border: solid black 2px;
+  margin: 10px;
+  /* margin-top: 20px; */
+  position: relative;
+  
+}
+.container div{
+  text-align: center;
+}
+.menu{
+  margin: 0 auto;
+  width: 500px;
+  text-align: center;
+  display:flex;
+  justify-content: space-between;
+}
+.board-container{
+  width:500px;
+  margin: 0 auto;
+}
